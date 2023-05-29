@@ -1,4 +1,4 @@
-settings.py
+bot_settings.py
 *.log
 .vscode/
 .idea/
